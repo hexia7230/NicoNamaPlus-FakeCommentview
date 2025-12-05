@@ -1,4 +1,8 @@
-[![Download](https://img.shields.io/badge/Download-App-red?style=for-the-badge)](https://drive.google.com/file/d/1sUYN8PszIRmrfrFTdurbZpuy57CJt30B/view?usp=sharing)
+[![Download](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github)](https://drive.google.com/uc?export=download&id=1sUYN8PszIRmrfrFTdurbZpuy57CJt30B)
+
+
+
+
 # 🎥 Nico-Style Comment Overlay 
 
 # 🎥 ニコ生風コメント
